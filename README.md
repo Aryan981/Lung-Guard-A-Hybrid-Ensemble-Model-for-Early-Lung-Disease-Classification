@@ -19,7 +19,6 @@ The goals of this project are to:
 * Preprocess data through encoding and scaling
 * Balance class distribution using oversampling
 * Train and compare multiple machine learning models
-* Implement a TabNet deep learning model for tabular data
 * Evaluate all models using accuracy, precision, recall, and F1-score
 
 
